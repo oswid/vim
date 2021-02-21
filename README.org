@@ -1,1 +1,1 @@
-basic keys for vim without any extension 
+basic keys for vim 
